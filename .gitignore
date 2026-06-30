@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# Firebase configuration & credentials (CRITICAL SECURITY)
+serviceAccountKey.json
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
